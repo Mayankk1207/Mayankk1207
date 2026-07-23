@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mayank 👋</h1>
+<h1 align="center">Hi, I'm Mayank </h1>
 <h3 align="center">Final-year AI/ML Engineer | Building with LLMs, RAG & Computer Vision</h3>
 
 <p align="center">
@@ -16,7 +16,6 @@
 ### 🚀 About Me
 
 - 🎓 Final-year **B.E. in Artificial Intelligence & Machine Learning**, USAR, GGSIPU, New Delhi (CGPA: **8.49**)
-- 💼 Currently interning with **IBM SkillsBuild** (via CSRBOX) — Data Analytics & Power BI
 - 🔭 Building **ClearLegal** — a RAG-based legal chatbot that simplifies contracts & T&Cs
 - 🌱 Actively applying for AI/ML and Software Engineering internships/apprenticeships
 - 🏆 Hackathon participant & Ideathon finalist
