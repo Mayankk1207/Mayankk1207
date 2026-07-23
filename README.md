@@ -27,11 +27,11 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧠 [**Brain Tumor Segmentation**](https://github.com/Mayankk1207/REPO) | Dual U-Net cascade with bitplane decomposition on BraTS 2018 | `PyTorch` `U-Net` `Medical Imaging` |
-| ⚖️ [**ClearLegal**](https://github.com/Mayankk1207/REPO) | RAG-based legal chatbot + T&C simplifier | `ChromaDB` `Gemini API` `FastAPI` |
-| 🎙️ [**VoiceFlow AI**](https://github.com/Mayankk1207/REPO) | Real-time speech translation pipeline | `Whisper.cpp` `Argos Translate` `Gemini API` `Flask` `MongoDB` |
-| 🛡️ [**MindSpace**](https://github.com/Mayankk1207/REPO) | Content moderation engine | `FastAPI` `TF-IDF` `ANN` |
-| 🤟 [**ASL Translator**](https://github.com/Mayankk1207/REPO) | Real-time sign language translation | `Computer Vision` `Deep Learning` |
+| 🧠 [**Brain Tumor Segmentation**](https://github.com/Mayankk1207/brain_tumor_ai) | Dual U-Net cascade with bitplane decomposition on BraTS 2018 | `PyTorch` `U-Net` `Medical Imaging` |
+| ⚖️ [**ClearLegal**](https://github.com/Mayankk1207/ClearLegalAI) | RAG-based legal chatbot + T&C simplifier | `ChromaDB` `Gemini API` `FastAPI` |
+| 🎙️ [**VoiceFlow AI**](https://github.com/Mayankk1207/VoiceFlowAI) | Real-time speech translation pipeline | `Whisper.cpp` `Argos Translate` `Gemini API` `Flask` `MongoDB` |
+| 🛡️ [**MindSpace**](https://github.com/Mayankk1207/Senti) | Content moderation engine | `FastAPI` `TF-IDF` `ANN` |
+| 🤟 [**ASL Translator**](https://github.com/Mayankk1207/SignLang) | Real-time sign language translation | `Computer Vision` `Deep Learning` |
 
 ---
 
