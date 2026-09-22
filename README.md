@@ -32,6 +32,7 @@
 | 🎙️ [**VoiceFlow AI**](https://github.com/Mayankk1207/VoiceFlowAI) | Real-time speech translation pipeline | `Whisper.cpp` `Argos Translate` `Gemini API` `Flask` `MongoDB` |
 | 🛡️ [**MindSpace**](https://github.com/Mayankk1207/Senti) | Content moderation engine | `FastAPI` `TF-IDF` `ANN` |
 | 🤟 [**ASL Translator**](https://github.com/Mayankk1207/SignLang) | Real-time sign language translation | `Computer Vision` `Deep Learning` |
+| 📊 [**Customer Churn Rate**](https://github.com/Mayankk1207/OnlineChurnRate) | ML based Analytical Dashboard | `Data Science` `Streamlit` `ETL`|
 
 ---
 
